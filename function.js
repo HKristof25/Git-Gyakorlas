@@ -1,5 +1,5 @@
 function getFirstElement (arr){
-        return arr
+        return arr[0]
     }
 export function factorial(n) {
             return Math.factorial(n)
